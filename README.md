@@ -42,8 +42,8 @@ You can create a full JSON snapshot of your collection at any time:
 ---
 
 ## Privacy Policy & Terms
-* [Privacy Policy]([PRIVACY.md](https://gist.github.com/shawn10ski/8c395d5be39abb4f42b30c93ae5d9c5a#file-privacy-policy-md))
-* [Terms of Service]([TERMS.md](https://www.apple.com/legal/internet-services/itunes/dev/stdeula/))
+* [Privacy Policy](https://gist.github.com/shawn10ski/8c395d5be39abb4f42b30c93ae5d9c5a#file-privacy-policy-md)
+* [Terms of Service](https://www.apple.com/legal/internet-services/itunes/dev/stdeula/)
 
 ---
 *Gear Valet © 2026. All rights reserved.*
